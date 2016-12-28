@@ -903,7 +903,7 @@
 				GCC_PREFIX_HEADER = "Euclid/Euclid-Prefix.pch";
 				INFOPLIST_FILE = "Euclid/Euclid-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.twokingstudio;
+				PRODUCT_BUNDLE_IDENTIFIER = com.twokingstudio.euclid.100;
 				PRODUCT_NAME = "Euclid: The Game";
 				PROVISIONING_PROFILE = "";
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -923,7 +923,7 @@
 				GCC_PREFIX_HEADER = "Euclid/Euclid-Prefix.pch";
 				INFOPLIST_FILE = "Euclid/Euclid-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.twokingstudio;
+				PRODUCT_BUNDLE_IDENTIFIER = com.twokingstudio.euclid.100;
 				PRODUCT_NAME = "Euclid: The Game";
 				PROVISIONING_PROFILE = "";
 				TARGETED_DEVICE_FAMILY = "1,2";
